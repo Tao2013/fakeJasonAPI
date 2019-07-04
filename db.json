@@ -1,11 +1,11 @@
 [
     {
-      "first_name": "John",
-      "last_name": "White"
+      "firstName": "John",
+      "lastName": "White"
     },
     {
-       "first_name": "Tom",
-      "last_name": "Green"
+       "firstName": "Tom",
+      "lastName": "Green"
     }
 ]
 
